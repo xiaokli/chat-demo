@@ -3,6 +3,6 @@ openai
 tiktoken
 unstructured
 unstructured[local-inference]
-chromadb
-# websocket
 websockets
+elasticsearch
+spacy

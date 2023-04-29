@@ -21,5 +21,5 @@ class Server:
 
 
 server = Server("localhost", 8765)
+print("started")
 asyncio.run(server.run())
-print("started ")
